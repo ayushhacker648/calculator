@@ -1,2 +1,3 @@
 # calculator
-usind html, css
+usind html, css andd js
+
